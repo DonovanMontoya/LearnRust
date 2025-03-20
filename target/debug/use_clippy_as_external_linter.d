@@ -1,0 +1,1 @@
+/home/donovan/RustroverProjects/Learn\ Rust/target/debug/use_clippy_as_external_linter: /home/donovan/RustroverProjects/Learn\ Rust/Common\ Programming\ Concepts/Basic\ Data\ Types/Use\ Clippy\ as\ External\ Linter/src/main.rs
